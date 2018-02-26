@@ -1,29 +1,29 @@
 # Testowanie aplikacji JAVA 2017-2018
 
-## Laboratorium 2 (Testowanie wbudowanych, zaawansowanych obiektĂłw w JUnit)
+## Laboratorium 2 (Testowanie wbudowanych, zaawansowanych obiektów w JUnit)
 
 **Zadanie 1** (0.2 pkt)
 
-Do dowolnego, poprzedniego zadania przetestuj metodÄ **equals**. UĹźyj rĂłĹźnych asercji!!! Uruchom test **JUnit** z _poziomu terminala_ nie uĹźywajÄc narzÄdzi: **Maven, Gradle, itp.**
+Do dowolnego, poprzedniego zadania przetestuj metodę **equals**. Użyj różnych asercji!!! Uruchom test **JUnit** z _poziomu terminala_ nie używając narzędzi: **Maven, Gradle, itp.**
 
 **Zadanie 2** (0.3 pkt)
 
-Plik **QuadraticFunction.java** zawiera implementacjÄ rozwiÄzania rĂłwnania kwadratowego. Przetestuj dziaĹanie tej klasy. JeĹźeli sÄ w niej bĹÄdy popraw je oraz dodaj odpowiednie przypadki.
+Plik **QuadraticFunction.java** zawiera implementację rozwiązania równania kwadratowego. Przetestuj działanie tej klasy. Jeżeli są w niej błędy popraw je oraz dodaj odpowiednie przypadki.
 
 **Zadanie 3** (0.5 pkt)
 
-UĹźywajÄc _dowolnej_ metody sortowania napisz klasÄ **Sorting**, ktĂłra bÄdzie zawieraĹa nastÄpujÄce metody:
+Używając _dowolnej_ metody sortowania napisz klasę **Sorting**, która będzie zawierała następujące metody: 
 
 ```
-sortArray(String option) // option = "R" || option = "M" co oznacza malejÄco oraz rosnÄco
-showArray() // wyĹwietla tablicÄ
-isSorted(String option) // sprawdza czy tablica/lista jest posortowana zgodnie z opcjÄ
+sortArray(String option) // option = "R" || option = "M" co oznacza malejąco oraz rosnąco
+showArray() // wyświetla tablicę
+isSorted(String option) // sprawdza czy tablica/lista jest posortowana zgodnie z opcją
 ```
 
-Przetestuj tÄ klasÄ pamiÄtajÄc o rĂłĹźnych przypadkach!!!
+Przetestuj tę klasę pamiętając o różnych przypadkach!!!
 
-**Zadanie 4** (0.5 pkt) W pliku **Friendships.java** jest niedokoĹczona, lekko zaimplementowana klasa Friendships, ktĂłra uĹźywa obiektu typu **HashMap** (inaczej sĹownik) przyjaciĂłĹ. Przetestuj zaimplementowane metody tej klasy oraz dokoĹcz pozostaĹe metody, pamiÄtajÄc o testowaniu ich oraz uwzglÄdniajÄc rĂłĹźne przypadki!!!
+**Zadanie 4** (0.5 pkt) W pliku **Friendships.java** jest niedokończona, lekko zaimplementowana klasa Friendships, która używa obiektu typu **HashMap** (inaczej słownik) przyjaciół. Przetestuj zaimplementowane metody tej klasy oraz dokończ pozostałe metody, pamiętając o testowaniu ich oraz uwzględniając różne przypadki!!!
 
-**ZADANIE DODATKOWE**
+**ZADANIE DODATKOWE** 
 
-**Zadanie 5** (1 pkt) PrzerĂłb plik **QuadraticFunction.java**, tak aby rozwiÄzanie byĹo generowane w Ĺwiecie liczb zespolonych. Przetestuj nastÄpnie tÄ klasÄ!
+**Zadanie 5** (1 pkt) Przerób plik **QuadraticFunction.java**, tak aby rozwiązanie było generowane w świecie liczb zespolonych. Przetestuj następnie tę klasę!
