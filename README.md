@@ -7,8 +7,9 @@
 #### 2.2 Hamcrest
 #### 2.3 AssertJ
 - [Lab4](Lab4)
-
-### Information about subject
+#### 2.4 Maven
+- [Lab5](Lab5)
+## Information about subject
 **dr Jakub Neumann**
 - [Home page](https://inf.ug.edu.pl/~kuba/)
 - [GitHub page](https://github.com/kubaneumann)

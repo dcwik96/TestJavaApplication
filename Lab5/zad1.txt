@@ -1,0 +1,3 @@
+1. Przejsc do folderu gdzie mamy pom.xml
+2. mvn package
+3. java -cp target/myApp-1.0-SNAPSHOT.jar mavenTest2.App 
