@@ -12,11 +12,12 @@
 - [Lab4](Lab4)
 #### 2.4 Maven
 - [Lab5](Lab5)
-## 2. Mock objects
-#### 2.1 Own Mocks
+## 3. Mock objects
+#### 3.1 Own Mocks
 - [Lab6](Lab6)
-#### 2.2 Mockito/EasyMock
+#### 3.2 Mockito/EasyMock
 - [Lab7](Lab7)
+
 ## Information about subject
 **dr Jakub Neumann**
 - [Home page](https://inf.ug.edu.pl/~kuba/)
