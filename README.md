@@ -1,4 +1,7 @@
 # Testing Java Application at MFI, University of Gdansk
+## Projekt 1
+### JUnit5, Hamcrest, AssertJ, Mockito, Maven, Travis
+- [Projekt1](Projekt1)
 ## 1. JUnit4
 - [Lab1](Lab1)
 - [Lab2](Lab2)
@@ -9,6 +12,11 @@
 - [Lab4](Lab4)
 #### 2.4 Maven
 - [Lab5](Lab5)
+## 2. Mock objects
+#### 2.1 Own Mocks
+- [Lab6](Lab6)
+#### 2.2 Mockito/EasyMock
+- [Lab7](Lab7)
 ## Information about subject
 **dr Jakub Neumann**
 - [Home page](https://inf.ug.edu.pl/~kuba/)
