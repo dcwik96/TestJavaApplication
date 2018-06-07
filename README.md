@@ -2,6 +2,13 @@
 ## Projekt 1
 ### JUnit5, Hamcrest, AssertJ, Mockito, Maven, Travis
 - [Projekt1](Projekt1)
+## Projekt 2
+### Maven, JUnit5, Atrapy(Mockito, EasyMock)
+- [Projekt2](Projekt2)
+## Projekt 3
+### Maven JUnit5, Selenium, JBehave
+- [Projekt3](Projekt3)
+
 ## 1. JUnit4
 - [Lab1](Lab1)
 - [Lab2](Lab2)
@@ -17,6 +24,10 @@
 - [Lab6](Lab6)
 #### 3.2 Mockito/EasyMock
 - [Lab7](Lab7)
+## 4. Selenium
+- [Lab10](Lab10)
+- [Lab11](Lab11)
+
 
 ## Information about subject
 **dr Jakub Neumann**
