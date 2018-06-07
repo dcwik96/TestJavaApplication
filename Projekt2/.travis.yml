@@ -1,0 +1,9 @@
+language: java
+
+install: true
+
+#before_script:
+#- ./scripts/runHSQLDBServer.sh &
+#- sleep 1
+script:
+- mvn clean install
